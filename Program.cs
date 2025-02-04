@@ -42,3 +42,4 @@ app.MapControllerRoute(
 app.MapRazorPages();
 
 await app.RunAsync(); //asinhronno 
+
